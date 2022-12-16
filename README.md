@@ -1,16 +1,17 @@
 # i_am_rich
 
-A new Flutter project.
+My first flutter application from the training at android
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1.Setting up environment (Flutter, Android Studio, VS Code, Simulators and Android Device)
+2.Creating a new Flutter project
+3.Running on iOS simulator and real android device
+4.Scaffolding a material app, displaying text and learning about Widget tree
+5.Displaying Image using NetworkImage, AssetImage
+6.The pubspec file for configuring dependencies and assets location
+7.App Icons and how to update for both Android and iOS
 
-A few resources to get you started if this is your first Flutter project:
+#screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![319780211_672238741042392_7968307516138068833_n](https://user-images.githubusercontent.com/113009882/208128316-f922b9b7-c8e4-4326-adc1-c8200e20481b.png)
