@@ -2,7 +2,7 @@
 
 My first flutter application from the training at android
 
-## Getting Started
+## Highlights
 
 1. Setting up environment (Flutter, Android Studio, VS Code, Simulators and Android Device)
 2. Creating a new Flutter project
